@@ -1,4 +1,4 @@
-# NAME :S.SAKHIVEL
+# NAME :S.SAKTHIVEL
 
 # REG NO: 212223220090
 # Linux-IPC-Shared-memory
